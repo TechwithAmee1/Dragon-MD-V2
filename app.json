@@ -1,0 +1,118 @@
+{
+  "name": "Dragon-MD V2",
+  "description": "whatsapp md bot build with nodejs",
+  "repository": "https://github.com/edm-official/whatsapp-base",
+  "logo": "",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "env": {
+  
+"ALIVE_MSG" :{
+    "description" : "alive message",
+    "required" : true,
+  "value" : "🤖 ℍ𝕖𝕪 𝕋𝕙𝕖𝕣𝕖 𝔹𝕠𝕥 𝕚𝕤 𝕆𝕟𝕝𝕚𝕟𝕖 ℕ𝕠𝕨 🤖\n\n💯 _*Owner*_ :- _😎៚֟ᴍ֢ʀͥ.ᴀͣᴍͫɪʏ͙ᴀ֮༒֘ᴏꜰ̐̈́ᴄ֮༒֘ʏᴛ͢⁸⁵⁴¹༆࿐😈_\n💯 _*Bot Name*_ :- 😈🤖 _Amiya Dragon Bot MD_ 🤖😈\n💯 _*Powered By*_ :- _🤖 𝙼𝚁.𝙰𝙼𝙸𝚈𝙰 𝙼𝙳 𝙱𝙾𝚃𝚂 🤖_\n\n```🐉 .𝚊𝚕𝚒𝚟𝚎 = 𝚋𝚘𝚝 𝚒𝚜 𝚘𝚗𝚕𝚒𝚗𝚎 𝚌𝚑𝚎𝚌𝚔```\n```🐉 .𝚖𝚎𝚗𝚞 = 𝚐𝚎𝚝 𝚋𝚘𝚝 𝚖𝚎𝚗𝚞```\n```🐉 .song = 𝚍𝚘𝚠𝚗𝚕𝚘𝚊𝚍 𝚢𝚘𝚞𝚝𝚞𝚋𝚎 𝚜𝚘𝚗𝚐```\n```🐉 .video = 𝚍𝚘𝚠𝚗𝚕𝚘𝚊𝚍 𝚢𝚘𝚞𝚝𝚞𝚋𝚎 𝚟𝚒𝚍𝚎𝚘```\n```🐉 .yt = 𝚜𝚎𝚊𝚛𝚌𝚑 𝚒𝚗 𝚢𝚘𝚞𝚝𝚞𝚋𝚎```\n\n_*🪄බොට්ව ඔයාගෙ ගෘප් එකටත් ඔනි නම් ඉන්බොක්ස් එන්න 🪄*_\n\n_wa.me/+94767453646?text=මට_බොටා_ඕනි🥰_\n\n(click here 📲)👆🤍❤️✨\n\n*🤖😈 𝙰𝙼𝙸𝚈𝙰 𝙳𝚁𝙰𝙶𝙾𝙽 𝙱𝙾𝚃 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙶𝚁𝙾𝚄𝙿 😈🤖 :-*\nhttps://chat.whatsapp.com/Cp96xRSt5DhBqxzjBzL0oc\n\n*🪄🎊 𝙾𝙵𝙵𝙸𝙲𝙸𝙰𝙻 𝙲𝙷𝙰𝚃 𝙶𝚁𝙾𝚄𝙿 🎊🪄 :-*\nhttps://chat.whatsapp.com/Gjo9kk7gTb14pmJNGWpwON\n\n _*🎉පහලින් තියෙන චැනල් එක subscribe කරලා බොට්ට සප් එකක් දෙන්න 🎉*_\nhttps://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ\n\n ♡ ㅤ    ❍ㅤ     ⎙ㅤ       ⌲\n ʲᵒⁱⁿ      ᵃⁿᵈ       ˢʰᵃʳᵉ       ˢʰᵃʳᵉ"
+    },
+ "SESSION_ID": {
+    "description": "Please put your SESSION_ID here,if you don't have visit https://secktorbot.herokuapp.com/session ",
+       "required" : true,
+  "value" : ""
+  },
+  "ANTI_LINK" :{
+    "description" : "Auto Delete Link",
+    "required" : true,
+  "value" : "true"
+},  
+      "ANTI_SPAM" :{
+    "description" : "Auto Delete Spams",
+    "required" : true,
+  "value" : "true"
+},  
+"ALIVE_LOGO" :{
+    "description" : "alive logo",
+    "required" : true,
+  "value" : "https://i.ibb.co/30VVgGW/Amiya.jpg"
+},
+"FOOTER" :{
+    "description" : "Footer Name",
+    "required" : true,
+  "value" : "༺៚ᴍʀͥ.ᴀͣᴍͫɪʏᴀッ༒ッʙ͋ᴏ̐̈́ᴛ͋乡࿐️"
+},
+"OWNER_NAME" :{
+    "description" : "Owner Name",
+    "required" : true,
+  "value" : "៚֟ᴍ֢ʀͥ.ᴀͣᴍͫɪʏ͙ᴀ֮༒֘ᴏꜰ̐̈́ᴄ֮༒֘ʏᴛ͢⁸⁵⁴¹༆࿐️"
+},
+    "OWNER_NUMBER" :{
+    "description" : "Owner Number",
+    "required" : true,
+  "value" : "+94 76 745 3646"
+},
+    "SONG_DOWN" :{
+    "description" : "Song downloading txt",
+    "required" : true,
+  "value" : "͇͇͈͈͇͇͔̾          💓· ··÷¦÷·· ·· ··÷¦÷·· ·· ··÷¦÷·· ·💓\n  00:00 ━━━━◎━━━━━━━━ 3:45\n              ⇆        ◁ㅤㅤ❚❚ㅤㅤ▷          ↻\n *◦•●◉ඔන්න ඔයාගේ 𝐒𝐨𝐧𝐠 එක*\n              *𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 වෙනවා 🙈❤️◉●•◦*\n          🦋· ··÷¦÷·· ·· ··÷¦÷·· ·· ··÷¦÷·· ·🦋"
+},
+        "SONG_UP" :{
+    "description" : "Song uploading txt",
+    "required" : true,
+  "value" : "͇͇͈͈͇͇͔̾          💓· ··÷¦÷·· ·· ··÷¦÷·· ·· ··÷¦÷·· ·💓\n  00:00 ━━━━◎━━━━━━━━ 3:45\n              ⇆        ◁ㅤㅤ❚❚ㅤㅤ▷          ↻\n *◦•●◉ඔන්න ඔයාගේ 𝐒𝐨𝐧𝐠 එක*\n              *𝐮𝐩𝐥𝐨𝐚𝐝 වෙනවා 🙈❤️◉●•◦*\n          🦋· ··÷¦÷·· ·· ··÷¦÷·· ·· ··÷¦÷·· ·🦋"
+},
+            "VIDEO_DOWN" :{
+    "description" : "video down txt",
+    "required" : true,
+  "value" : "*◦•●◉ඔන්න ඔයාගේ 𝐕𝐢𝐝𝐞𝐨 එක 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 වෙනවා 🙈❤️◉●•◦*"
+},
+                "VIDEO_UP" :{
+    "description" : "video up txt",
+    "required" : true,
+  "value" : "*◦•●◉ඔන්න ඔයාගේ 𝐕𝐢𝐝𝐞𝐨 එක 𝐮𝐩𝐥𝐨𝐚𝐝 වෙනවා 🙈❤️◉●•◦*"
+},
+                        "FILE_DOWN" :{
+    "description" : "video up txt",
+    "required" : true,
+  "value" : "*හී... හී... හී... ඔයා ඉල්ලපු ෆයිල් එක මම ඩව්න්ලෝඩ් කරන ගමන් ඉන්නෙ 😉😙 ආදලෙයි හොදේ 🥰🤪*"
+},
+                    "FILE_UP" :{
+    "description" : "video up txt",
+    "required" : true,
+  "value" : "*හී... හී... හී... ඔයා ඉල්ලපු ෆයිල් එක මම ඩව්න්ලෝඩ් කරා දැන් අප්ලෝඩ් කරන ගමන් ඉන්නෙ 😉😙 ආදලෙයි හොදේ 🥰🤪*"
+},
+                        "CAPTION" :{
+    "description" : " caption",
+    "required" : true,
+  "value" : "© 𝙳𝙾𝚆𝙽𝙻𝙾𝙰𝙳𝙴𝙳 𝙱𝚈 𝙰𝙼𝙸𝚈𝙰 𝙳𝚁𝙰𝙶𝙾𝙽 𝙱𝙾𝚃 𝙸𝙽𝙲 ²⁰²²\n\n_*පහලින් තියෙන චැනල් එක subscribe කරලා සප් එකක් දෙන්න*_\n\nhttps://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ"
+},
+                        "BUTTON" :{
+    "description" : "alive button txt",
+    "required" : true,
+  "value" : "🎊 𝙵𝙾𝙻𝙻𝙾𝚆 𝚄𝚂 𝙾𝙽 𝚈𝙾𝚄𝚃𝚄𝙱𝙴 🎊"
+},
+                            "BUTTONURL" :{
+    "description" : "alive button url",
+    "required" : true,
+  "value" : "https://youtube.com/channel/UCVSZitR2NTFW9K9wl-luCzQ"
+}, 
+                           "onlygroup" :{
+    "description" : "onlygroup",
+    "required" : true,
+  "value" : "false"
+} 
+    },
+  
+    "buildpacks": [
+      {
+        "url": "heroku/nodejs"
+      },
+      {
+        "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      },
+      {
+        "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+      }
+    ],
+     "formation": {
+          "worker": {
+              "quantity": 1,
+              "size": "free"
+          }
+      }
+  }
