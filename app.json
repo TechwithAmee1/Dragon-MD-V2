@@ -2,7 +2,7 @@
   "name": "Dragon-MD V2",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/edm-official/whatsapp-base",
-  "logo": "",
+  "logo": "https://i.ibb.co/30VVgGW/Amiya.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "env": {
   
